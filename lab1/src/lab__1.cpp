@@ -3,12 +3,12 @@
 /******************************************************/
 
 #include "Particle.h"
-#line 1 "c:/IOTEngineering/Labs/Lab1/lab__1/src/lab__1.ino"
+#line 1 "c:/IOTEngineering/Labs/lab1/src/lab__1.ino"
 
 
 void setup();
 void loop();
-#line 3 "c:/IOTEngineering/Labs/Lab1/lab__1/src/lab__1.ino"
+#line 3 "c:/IOTEngineering/Labs/lab1/src/lab__1.ino"
 SYSTEM_MODE(MANUAL);
 SYSTEM_THREAD(ENABLED);
 
@@ -20,6 +20,7 @@ void setup() {
 
 
 }
+
 
 
 void loop() {
