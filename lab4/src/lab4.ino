@@ -22,4 +22,8 @@ void loop()
   {                        //if button isn't pressed
     digitalWrite(D6, LOW); //turn light off
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6bd7db5fe63784e5c9edd60d86e588070052f967
