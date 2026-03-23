@@ -1,4 +1,4 @@
-# Labs: Northwestern University CTD Summer Program 2021
+# CTD-IoT-Capstone: Northwestern University CTD Summer Program 2021
 
 This repository contains the coursework and capstone project developed during the **Northwestern University Center for Talent Development (CTD) Summer Program**. This opportunity was made possible through the sponsorship of the **Mawhiba Safeer** program during my high school studies.
 
